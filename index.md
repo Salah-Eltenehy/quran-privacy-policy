@@ -22,7 +22,7 @@ The app uses no third-party services that collect data.
 
 ## 5. Children's Privacy
 
-The app is not directed at children under 13. We do not knowingly collect personal information from anyone, including children under 13.
+The app is suitable for all ages, including children. We do not collect personal information from anyone, including children. The app contains no ads, no user accounts, and no third-party tracking.
 
 ## 6. Data Security
 
